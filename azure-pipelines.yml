@@ -18,6 +18,7 @@ steps:
     echo See https://aka.ms/yaml
     sudo apt update
     sudo apt-get install john
-    john
+    whoami
+    dh -lh
   displayName: 'Run a multi-line script'
     
