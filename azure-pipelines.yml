@@ -19,6 +19,6 @@ steps:
     sudo apt update
     sudo apt-get install john
     whoami
-    dh -lh
+    df -lh
   displayName: 'Run a multi-line script'
     
